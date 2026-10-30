@@ -18,9 +18,9 @@ def main():
     base = [args.godot, '--headless', '--path', str(ROOT)]
     if not args.skip_import:
         subprocess.run(base + ['--import'], capture_output=True, text=True, timeout=600)
-    cmd = base + ['-s', 'res://tests/run_tests.gd']
+    cmd = base + ['-s', 'res://tests/run_tests.gd', '--', '--test-run']
     if args.filter:
-        cmd += ['--', f'--filter={args.filter}']
+        cmd.append(f'--filter={args.filter}')
     return subprocess.run(cmd, timeout=900).returncode
 
 if __name__ == '__main__':

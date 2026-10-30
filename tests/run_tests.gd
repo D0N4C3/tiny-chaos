@@ -1,6 +1,7 @@
 extends SceneTree
 ## Headless test runner. Discovers res://tests/**/test_*.gd scripts extending TestCase.
-## Run: godot --headless --path . -s res://tests/run_tests.gd -- [--filter=substring]
+## Run: godot --headless --path . -s res://tests/run_tests.gd -- --test-run [--filter=substring]
+## (--test-run keeps autoloads such as SaveManager away from the real player profile.)
 ## Exit code 0 only when every test passed and at least one test ran.
 
 const TEST_ROOT: String = "res://tests"

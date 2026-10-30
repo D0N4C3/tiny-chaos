@@ -23,6 +23,7 @@ _mcp_game_helper="*res://addons/godot_ai/runtime/game_helper.gd"
 EventBus="*res://core/events/event_bus.gd"
 AppState="*res://core/app/app_state.gd"
 SceneRouter="*res://core/app/scene_router.gd"
+SaveManager="*res://core/save/save_manager.gd"
 
 [debug]
 
