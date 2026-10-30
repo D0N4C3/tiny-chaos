@@ -24,6 +24,7 @@ EventBus="*res://core/events/event_bus.gd"
 AppState="*res://core/app/app_state.gd"
 SceneRouter="*res://core/app/scene_router.gd"
 SaveManager="*res://core/save/save_manager.gd"
+Services="*res://core/services/services.gd"
 
 [debug]
 
