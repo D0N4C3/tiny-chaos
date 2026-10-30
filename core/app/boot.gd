@@ -1,6 +1,6 @@
 class_name Boot
 extends Control
-## Main scene entry point. Owns startup only; routing to feature scenes is added by P01-002.
+## Main scene entry point: shows the splash, then hands navigation to SceneRouter.
 
 signal boot_completed(engine_version: String)
 
@@ -17,3 +17,7 @@ func _ready() -> void:
 		RenderingServer.get_current_rendering_method(),
 	])
 	boot_completed.emit(engine_version)
+	if SceneRouter.has_route(&"home"):
+		SceneRouter.go_to.call_deferred(&"home", {}, false, true)
+	else:
+		print("[boot] home route not built yet; staying on boot screen")

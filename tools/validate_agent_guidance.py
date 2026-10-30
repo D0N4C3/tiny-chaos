@@ -4,7 +4,7 @@ Run: python tools/validate_agent_guidance.py
 from pathlib import Path
 import sys, re
 ROOT=Path(__file__).resolve().parents[1]
-EXCLUDE_DIRS={'.git','.godot','build','dist','.venv','venv','__pycache__','.cache','tmp','generated'}
+EXCLUDE_DIRS={'.git','.godot','.claude','build','dist','.venv','venv','__pycache__','.cache','tmp','generated'}
 errors=[]; count=0
 for folder in ROOT.rglob('*'):
     if not folder.is_dir(): continue

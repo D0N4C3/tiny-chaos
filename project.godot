@@ -13,6 +13,7 @@ config_version=5
 config/name="Tiny Chaos"
 config/version="0.1.0"
 run/main_scene="res://core/app/boot.tscn"
+config/quit_on_go_back=false
 config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://icon.svg"
 
@@ -20,6 +21,8 @@ config/icon="res://icon.svg"
 
 _mcp_game_helper="*res://addons/godot_ai/runtime/game_helper.gd"
 EventBus="*res://core/events/event_bus.gd"
+AppState="*res://core/app/app_state.gd"
+SceneRouter="*res://core/app/scene_router.gd"
 
 [debug]
 

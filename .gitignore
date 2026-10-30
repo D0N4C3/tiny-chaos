@@ -36,3 +36,6 @@ service-account*.json
 # Temporary generated validation outputs
 reports/generated/
 tmp/
+# Local agent tooling (worktrees, local settings)
+.claude/worktrees/
+.claude/settings.local.json
