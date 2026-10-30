@@ -14,3 +14,6 @@ R12,High,IAP entitlement not restored after reinstall,P08,Play license test trac
 R13,Medium,Unreviewed translations look robotic,P09,"Localization checklist, native QA before listing translated markets",OPEN,AI_AGENT,
 R14,Medium,Asset download script blocked or incompatible archive,P04,Use canonical pages and licensed manual download; preserve manifest,OPEN,AI_AGENT,
 R15,Medium,Store creative attracts viewers not retained players,P11,"True gameplay creatives, cross-channel acquired cohorts and ad LTV",OPEN,AI_AGENT,
+R16,High,Dev-only Godot AI MCP helper autoload (_mcp_game_helper) ships in a release build,P11,"Remove autoload/plugin from release preset or strip in export; release checklist gate",OPEN,AI_AGENT,docs/decisions/2026-10-30_p00_preflight_reconciliation.md
+R17,Medium,No Blender MCP connected; Pip/gadget 3D renders need another path,P04,"Author editable Blender Python scripts and SVG sources; owner may connect Blender MCP later",OPEN,OWNER,P00-004
+R18,Low,Unstable network on dev machine interrupts large toolchain downloads,P00,"Resumable download with SHA-512 verification before install",OPEN,AI_AGENT,P00-003
