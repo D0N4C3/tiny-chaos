@@ -1,0 +1,349 @@
+﻿key,en,es,pt_BR,fr,it,translation_notes,qa_status
+game.title,Tiny Chaos,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+game.subtitle,Chain Reaction Rescue,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.play,Play,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.next,Next,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.back,Back,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.pause,Pause,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.resume,Resume,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.cancel,Cancel,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.ok,OK,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.retry,Try again,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.rewind,Rewind,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.restart,Restart,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.settings,Settings,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.share,Share,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.skip,Skip,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.close,Close,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+common.go,GO!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+home.main_campaign,Save Pip,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+home.daily,Daily Circuit,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+home.weekly,Weekly Lab,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+home.workshop,My Workshop,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+home.challenges,Challenges,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+home.shop,Shop,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+home.worlds,Worlds,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+tutorial.1,Tap GO!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+tutorial.2,Drag the spring here,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+tutorial.3,Oops! Tap rewind and try again,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+tutorial.4,Tap when the ball gets close,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+tutorial.5,You made something!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.win,Nice save!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.fail,Oops!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.fail_fan,The fan was a little early,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.fail_switch,Try the switch a bit later,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.fail_route,That path leads to trouble,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.hint,Show a free hint,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.medal_rescue,Rescue,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.medal_precision,Precision,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.medal_inventor,Inventor,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.collect_bonus,Find the hidden bonus,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.finish,Machine complete!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.out_of_bounds,Try another direction,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.new_best,New personal best!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+daily.title,Today’s Chaos Circuit,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+daily.quick_fix,Quick Fix,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+daily.perfect_timing,Perfect Timing,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+daily.master_inventor,Master Inventor,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+daily.complete,Circuit complete!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+daily.archive,Previous circuits,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+daily.utc_day,Daily challenges reset at 00:00 UTC,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+daily.missed,Come back whenever you like,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+weekly.title,Weekly Lab,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+weekly.archive,Event archive,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+weekly.complete,Invention complete!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+weekly.stage,Stage,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+weekly.reward,Reward,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.title,Pip’s Workshop,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.collection,My inventions,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.decorate,Decorate,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.screws,Screws,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.unlock,Unlocked!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.equip,Equip,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.equipped,Equipped,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.cost,Costs {amount} screws,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+workshop.insufficient,Not enough screws yet,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.title,Toy Shop,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.remove_ads,Remove interstitial ads,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.reward_bonus,Watch a video for bonus cosmetic screws,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.purchase_failed,Purchase could not be completed,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.purchase_restored,Purchase restored,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.restore,Restore purchases,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.no_ads,No ads available right now,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.reward_success,Bonus added!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+shop.reward_unavailable,Video unavailable. Keep playing!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+share.title,Can you save Pip?,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+share.message,I solved this! Can you beat my rescue?,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+share.code,Challenge code,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+share.copy,Copy code,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+share.import,Enter challenge code,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+share.invalid,That challenge code was not recognized,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+share.action_count,My actions: {count},,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+share.result,Your result,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.language,Language,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.music,Music,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.sfx,Sound effects,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.haptics,Vibration,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.motion,Reduced motion,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.assist,Assistive timing,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.controls,Larger controls,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.high_contrast,High contrast,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.privacy,Privacy choices,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.licenses,Licenses and credits,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.delete,Delete local progress,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.delete_confirm,Delete all local progress on this device?,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+settings.notifications,Optional notifications,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+privacy.policy,Privacy policy,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+privacy.consent,Ad privacy choices,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+privacy.unavailable,Privacy choices are unavailable offline,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+system.offline,Offline mode — the game still works,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+system.loading,Getting the workshop ready…,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+system.error,Something went wrong. Try again.,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+system.no_network,"No network, no problem!",,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+system.update,Update available,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+pip.comment_1,That lever looks suspicious.,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+pip.comment_2,The donut has left the building.,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+pip.comment_3,I meant to do that. Mostly.,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+pip.comment_4,Science says try again!,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+pip.comment_5,A little chaos is okay.,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+pip.comment_6,Why is the floor moving?,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L001.title,Alarm Clock Panic,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L001.brief,Wake Pip by rolling a marble into the bell,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L002.title,The Missing Ramp,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L002.brief,Guide the bead across a tabletop gap,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L003.title,"Oops, My Spring",,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L003.brief,Catch Pip on a cushion with a soft launcher,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L004.title,Sticky Button,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L004.brief,Tap the large switch just before the ball arrives,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L005.title,Rubber Duck Lift,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L005.brief,Send a duck to the top shelf,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L006.title,Wobbly Shelf,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L006.brief,Counter a tilting mini shelf,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L007.title,Bouncy Breakfast,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L007.brief,Deliver toast to the breakfast stand,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L008.title,Tiny Toolbox,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L008.brief,Rescue the screwdriver from the tray,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L009.title,The Coffee Lever,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L009.brief,Make a lever land a coffee mug safely,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L010.title,Rolling Paint Can,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L010.brief,Keep rolling paint from covering Pip,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L011.title,Pencil Bridge,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L011.brief,Complete a bridge out of pencil rulers,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L012.title,Napping Robot,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L012.brief,Wake Pip without bursting his balloon,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L013.title,Squeaky Gear,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L013.brief,Start a squeak machine without jamming it,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L014.title,Lost Screw,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L014.brief,Guide the screw into its jar,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L015.title,Wall of Boxes,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L015.brief,Knock down one crate without disturbing the tower,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L016.title,Double Bump,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L016.brief,Use two cushions to cross a gap,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L017.title,Fan of Paper,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L017.brief,Redirect a paper plane from the workbench,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L018.title,Big Red Switch,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L018.brief,Stop an over-spinning toy car,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L019.title,The Mystery Chute,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L019.brief,Choose which chute catches the prize,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L020.title,Grand Workshop Wake-Up,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W01_L020.brief,Rescue Pip while launching a tiny finished robot,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L001.title,Donut Delivery,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L001.brief,Launch a donut into Pip’s snack tray,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L002.title,Jelly Bean Jam,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L002.brief,Unclog the candy counter,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L003.title,Sugar Slide,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L003.brief,Help a macaron slide into its box,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L004.title,Frosting Fan,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L004.brief,Blow a cupcake around a frosting puddle,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L005.title,The Cookie Catapult,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L005.brief,Land one cookie on a rotating plate,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L006.title,Chocolate Conveyor,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L006.brief,Switch the belt before chocolate falls,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L007.title,Gummy Bridge,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L007.brief,Bounce a gummy across two pads,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L008.title,Marshmallow Landing,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L008.brief,Catch a marshmallow on a cushion,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L009.title,Candy Cane Corner,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L009.brief,Turn the traffic of rolling sweets,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L010.title,Sprinkle Rain,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L010.brief,Protect Pip from falling sprinkles,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L011.title,The Rolling Lollipop,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L011.brief,Guide a giant lollipop without spilling jars,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L012.title,Pudding Panic,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L012.brief,Shut a valve before pudding floods the platform,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L013.title,Toffee Tunnel,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L013.brief,Route a candy through a tiny pipe,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L014.title,The Upside-Down Cake,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L014.brief,Flip a cake stand to the right side,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L015.title,Jelly Wheel,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L015.brief,Balance a rotating candy wheel,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L016.title,Cake Rescue,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L016.brief,Catch a falling cake with a moving tray,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L017.title,Popcorn Trouble,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L017.brief,Bounce popcorn across a split conveyor,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L018.title,Rainbow Ramp,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L018.brief,Place one ramp to collect a bonus cherry,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L019.title,The Two-Donut Problem,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L019.brief,Feed one donut while saving another,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L020.title,Ultimate Snack Disaster,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W02_L020.brief,Send a finished dessert to Pip without an icing explosion,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L001.title,Paper Plane Rescue,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L001.brief,Catch a paper plane before it flies away,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L002.title,Cloud Elevator,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L002.brief,Lift Pip onto a fluffy platform,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L003.title,Balloon Express,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L003.brief,Guide a balloon through two fans,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L004.title,Windmill Wake-Up,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L004.brief,Tap a windmill blade to drive a toy,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L005.title,Falling Feather,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L005.brief,Nudge a feather onto a safe landing,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L006.title,Skyhook Surprise,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L006.brief,Catch a hook with an air cannon,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L007.title,Kite Overboard,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L007.brief,Move a kite past a cardboard tower,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L008.title,Three Cloud Hop,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L008.brief,Launch one marble across cloud platforms,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L009.title,Propeller Parade,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L009.brief,Start the right propeller at the right time,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L010.title,Umbrella Rescue,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L010.brief,Open an umbrella below Pip before landing,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L011.title,Cloud Bridge,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L011.brief,Place a floating platform to connect the gap,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L012.title,Storm in a Teacup,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L012.brief,Guide a marble past a tiny weather machine,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L013.title,Hang Glider,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L013.brief,Balance fan bursts to land a toy glider,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L014.title,Sky Ladder,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L014.brief,Reach a floating ladder with two pads,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L015.title,Floating Donut,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L015.brief,Deliver a donut through a window,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L016.title,Windy Workshop,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L016.brief,Prevent tool pieces flying out of the shed,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L017.title,Balloon Relay,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L017.brief,Transfer a balloon between air tunnels,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L018.title,Rocket Kite,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L018.brief,Launch a kite to pull a toy rocket,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L019.title,The Cloud Splitter,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L019.brief,Choose between two air routes,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L020.title,Sky Lab Finale,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W03_L020.brief,Save Pip and deliver a floating science trophy,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L001.title,Polar Opposites,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L001.brief,Attract a metal bead toward the rescue pad,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L002.title,Magnet Mayhem,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L002.brief,Release Pip from a magnetic swing,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L003.title,The Steel Donut,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L003.brief,Guide a steel ring onto a peg,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L004.title,Flip the Poles,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L004.brief,Reverse a magnet before the bead passes,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L005.title,Iron Bridge,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L005.brief,Carry a steel block over a gap,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L006.title,Magnetic Pinball,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L006.brief,Bounce a ball through two poles,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L007.title,The Lost Key,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L007.brief,Pull a key from behind a guarded divider,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L008.title,Repel the Paint,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L008.brief,Push a spill-prone metal can away from Pip,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L009.title,Magnet Carousel,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L009.brief,Time a rotating magnet to launch a ball,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L010.title,The Stuck Spoon,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L010.brief,Free a spoon from a sticky magnet,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L011.title,Twin Magnets,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L011.brief,Control two poles without trapping a steel marble,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L012.title,Copper Problem,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L012.brief,Use a nonmagnetic ball to trigger a steel trigger,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L013.title,Magnet Gate,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L013.brief,Open a safe passage using a polarity sequence,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L014.title,The Floating Bolt,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L014.brief,Carry a bolt across a gap without dropping,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L015.title,Compass Chaos,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L015.brief,Align the magnet with an arrow-marked target,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L016.title,The Magnetic Sandwich,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L016.brief,Bring steel bread pieces together,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L017.title,Off-Center Attraction,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L017.brief,Correct an asymmetrical magnet route,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L018.title,Last-Second Repel,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L018.brief,Save Pip from a rolling iron block,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L019.title,The Invisible Path,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L019.brief,Reveal magnetic field lines and choose a route,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L020.title,Magnet Mischief Finale,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W04_L020.brief,Power a harmless giant toy electromagnet to assemble a robot,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L001.title,The Giant Flipper,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L001.brief,Launch a foam ball toward a prize bell,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L002.title,Clock Hand Race,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L002.brief,Tap the clock hand before it blocks the track,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L003.title,Toy Ferris Wheel,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L003.brief,Move a capsule into the wheel safely,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L004.title,Tilt-a-Whirl,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L004.brief,Keep Pip in a safe seat as a platform tilts,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L005.title,Prize Shelf Shuffle,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L005.brief,Send a toy prize to the right shelf,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L006.title,The Juggling Cups,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L006.brief,Match a bouncing ball with a waiting cup,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L007.title,Balloon Pop Show,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L007.brief,Avoid bursting a balloon while ringing a bell,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L008.title,Seesaw Symphony,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L008.brief,Complete a two-stage musical lever machine,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L009.title,Clown Car Escape,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L009.brief,Launch a toy car past a bumper,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L010.title,Ring Toss Bot,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L010.brief,Send a ring onto Pip’s antenna,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L011.title,Three Flippers,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L011.brief,Activate the correct flipper sequence,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L012.title,The Mirror Carousel,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L012.brief,Choose between two mirrored routes,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L013.title,Silly Fireworks,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L013.brief,Trigger safe confetti cannons in sequence,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L014.title,Bell Tower Bounce,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L014.brief,Hit the bell with a rebound off a tilting surface,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L015.title,Arcade Jackpot,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L015.brief,Guide a marble through rotating wheels,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L016.title,The Spinning Snack,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L016.brief,Catch a donut from a revolving platform,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L017.title,Cannonball Clown,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L017.brief,Launch a foam ball into a giant clown mouth,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L018.title,Clockwork Clockout,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L018.brief,Stop a wild clockwork vehicle safely,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L019.title,Carnival Parade,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L019.brief,Coordinate three toy acts to finish a parade,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L020.title,Grand Carnival Finale,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W05_L020.brief,Rescue Pip from a harmless confetti storm using a machine symphony,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L001.title,Little Rocket Lift,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L001.brief,Launch a toy rocket to the short space dock,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L002.title,Portal Postcard,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L002.brief,Send a message marble through paired hoops,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L003.title,Moon Gravity,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L003.brief,Use one gravity ring to land Pip on a cushion,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L004.title,Starship Spring,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L004.brief,Time a spring burst for orbiting toy,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L005.title,Reverse Orbit,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L005.brief,Reverse a gravity arrow to bring a ball home,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L006.title,Alien Cup of Tea,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L006.brief,Deliver a teacup across a zero-gravity room,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L007.title,Double Portal,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L007.brief,Route a marble through two portals in the right order,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L008.title,Saturn Ring Toss,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L008.brief,Shoot a ring around a toy planet,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L009.title,Lunar Conveyor,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L009.brief,Time a conveyor while gravity changes,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L010.title,Meteor Marshmallow,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L010.brief,Rescue a marshmallow from a toy meteor foam,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L011.title,Small Black Hole,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L011.brief,Escape a harmless suction field,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L012.title,Satellite Switch,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L012.brief,Tap a switch while a satellite rotates,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L013.title,Comet Bounce,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L013.brief,Bounce a toy comet between springs,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L014.title,Zero-G Donut,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L014.brief,Deliver a floating donut to Pip,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L015.title,The Space Magnet,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L015.brief,Attract one steel ball without pulling a rocket,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L016.title,Planetary Pulley,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L016.brief,Use a pulley and gravity ring together,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L017.title,Warped Workshop,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L017.brief,Correct a portal exit to save a machine,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L018.title,Three-Moon Relay,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L018.brief,Transfer the ball through three pads in order,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L019.title,Pip’s Last Rescue,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L019.brief,Help Pip bring a toy robot back to his home station,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L020.title,The Great Tiny Launch,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY
+level.W06_L020.brief,Build the final chain to light up the entire miniature universe,,,,,Preserve placeholders; natural game-localized language; review on device,SOURCE_EN_ONLY

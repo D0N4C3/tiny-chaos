@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "id": "W01_L006",
+  "world_id": "W01",
+  "index": 6,
+  "title_key": "level.W01_L006.title",
+  "brief_key": "level.W01_L006.brief",
+  "puzzle_type": "Chaos Combo",
+  "physics_seed": 1006,
+  "canvas": {
+    "width": 720,
+    "height": 1280
+  },
+  "gadget_palette": [
+    "spring",
+    "flipper"
+  ],
+  "spawn": {
+    "body_id": "main_ball",
+    "body_type": "ball",
+    "position": {
+      "x": 100,
+      "y": 325
+    },
+    "velocity": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "goal": {
+    "goal_id": "goal_pip",
+    "position": {
+      "x": 585,
+      "y": 800
+    },
+    "radius": 60
+  },
+  "fixtures": [
+    {
+      "id": "base_platform",
+      "type": "static_wood_ramp",
+      "position": {
+        "x": 330,
+        "y": 860
+      },
+      "params": {
+        "length": 600,
+        "angle_deg": 0
+      }
+    },
+    {
+      "id": "central_hazard",
+      "type": "soft_foam_pit",
+      "position": {
+        "x": 252,
+        "y": 850
+      },
+      "params": {
+        "radius": 65
+      }
+    }
+  ],
+  "sockets": [
+    {
+      "id": "gadget_slot_a",
+      "position": {
+        "x": 265,
+        "y": 545
+      },
+      "allowed_gadgets": [
+        "spring"
+      ],
+      "snap_radius": 56
+    }
+  ],
+  "interventions": [
+    {
+      "control_id": "control_spring",
+      "action_type": "tap",
+      "cue_tick": 65,
+      "timing_window_ms": 900
+    }
+  ],
+  "checkpoints": [
+    {
+      "id": "cp_before_action",
+      "trigger": "before_first_action",
+      "restore_mode": "phase_reload"
+    }
+  ],
+  "win_conditions": [
+    "main_ball_enters_goal"
+  ],
+  "fail_conditions": [
+    "main_ball_enters_soft_pit",
+    "out_of_bounds",
+    "no_motion_timeout"
+  ],
+  "medals": {
+    "rescue": "primary goal",
+    "precision": "complete with minimal actions",
+    "inventor": "collect hidden star badge"
+  },
+  "solution_traces": [
+    {
+      "actions": [
+        {
+          "at_tick": 0,
+          "type": "start"
+        }
+      ],
+      "qa_status": "DESIGN_ONLY_NOT_VERIFIED"
+    }
+  ],
+  "qa_status": "DESIGN_ONLY_NOT_VERIFIED"
+}

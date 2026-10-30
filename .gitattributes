@@ -1,0 +1,21 @@
+# Portable text diffs (Windows/Linux/macOS)
+* text=auto
+*.gd text eol=lf
+*.tscn text eol=lf
+*.tres text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.cfg text eol=lf
+*.godot text eol=lf
+*.py text eol=lf
+*.svg text eol=lf
+# Binary assets. Optional LFS only after installed and agreed upon.
+*.png binary
+*.webp binary
+*.ogg binary
+*.wav binary
+*.blend binary
+*.glb binary
+# Markdown permits two trailing spaces for hard line breaks.
+*.md whitespace=-blank-at-eol

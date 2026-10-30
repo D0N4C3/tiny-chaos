@@ -1,0 +1,38 @@
+# Godot generated cache and imports
+.godot/
+*.translation
+# Generated exports/builds
+build/
+dist/
+*.apk
+*.aab
+*.apks
+*.pck
+*.log
+# Local tools, editor and Python caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+.DS_Store
+Thumbs.db
+.vscode/*.log
+# Private local config / secrets / release signing
+.env
+.env.*
+!.env.example
+CLAUDE.local.md
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+keystore.properties
+android/keystore.properties
+.secrets/
+credentials.json
+service-account*.json
+# Temporary generated validation outputs
+reports/generated/
+tmp/

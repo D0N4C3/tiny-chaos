@@ -1,0 +1,49 @@
+﻿cosmetic_id,name,category,world_unlock,screws_cost,unlock_method,visible_effect,original_art_id,status
+INV_W01_01,Beeping Alarm Bot,invention,W01,0,campaign progression in W01,Tap for 2-4s skippable humorous animation,BL-15/1-1,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W01_02,Wind-Up Spoon,invention,W01,0,campaign progression in W01,Tap for 2-4s skippable humorous animation,BL-15/1-2,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W01_03,Rolling Toolbox,invention,W01,0,campaign progression in W01,Tap for 2-4s skippable humorous animation,BL-15/1-3,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W01_04,Rubber-Duck Elevator,invention,W01,0,campaign progression in W01,Tap for 2-4s skippable humorous animation,BL-15/1-4,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W02_01,Donut Delivery Drone,invention,W02,0,campaign progression in W02,Tap for 2-4s skippable humorous animation,BL-15/2-1,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W02_02,Popcorn Carousel,invention,W02,0,campaign progression in W02,Tap for 2-4s skippable humorous animation,BL-15/2-2,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W02_03,Rainbow Candy Mixer,invention,W02,0,campaign progression in W02,Tap for 2-4s skippable humorous animation,BL-15/2-3,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W02_04,Marshmallow Lift,invention,W02,0,campaign progression in W02,Tap for 2-4s skippable humorous animation,BL-15/2-4,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W03_01,Cardboard Glider,invention,W03,0,campaign progression in W03,Tap for 2-4s skippable humorous animation,BL-15/3-1,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W03_02,Balloon Sky Bus,invention,W03,0,campaign progression in W03,Tap for 2-4s skippable humorous animation,BL-15/3-2,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W03_03,Cloud Umbrella,invention,W03,0,campaign progression in W03,Tap for 2-4s skippable humorous animation,BL-15/3-3,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W03_04,Tiny Wind Tunnel,invention,W03,0,campaign progression in W03,Tap for 2-4s skippable humorous animation,BL-15/3-4,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W04_01,Compass Robot,invention,W04,0,campaign progression in W04,Tap for 2-4s skippable humorous animation,BL-15/4-1,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W04_02,Polarity Globe,invention,W04,0,campaign progression in W04,Tap for 2-4s skippable humorous animation,BL-15/4-2,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W04_03,Floating Steel Swan,invention,W04,0,campaign progression in W04,Tap for 2-4s skippable humorous animation,BL-15/4-3,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W04_04,Magnet Sculpture,invention,W04,0,campaign progression in W04,Tap for 2-4s skippable humorous animation,BL-15/4-4,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W05_01,Mini Ferris Wheel,invention,W05,0,campaign progression in W05,Tap for 2-4s skippable humorous animation,BL-15/5-1,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W05_02,Clockwork Clown,invention,W05,0,campaign progression in W05,Tap for 2-4s skippable humorous animation,BL-15/5-2,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W05_03,Pinball Orchestra,invention,W05,0,campaign progression in W05,Tap for 2-4s skippable humorous animation,BL-15/5-3,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W05_04,Confetti Bell Tower,invention,W05,0,campaign progression in W05,Tap for 2-4s skippable humorous animation,BL-15/5-4,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W06_01,Rocket Tea Kettle,invention,W06,0,campaign progression in W06,Tap for 2-4s skippable humorous animation,BL-15/6-1,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W06_02,Orbit Donut Machine,invention,W06,0,campaign progression in W06,Tap for 2-4s skippable humorous animation,BL-15/6-2,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W06_03,Tiny Moon Rover,invention,W06,0,campaign progression in W06,Tap for 2-4s skippable humorous animation,BL-15/6-3,ART_AND_IMPLEMENTATION_REQUIRED
+INV_W06_04,Star Launcher,invention,W06,0,campaign progression in W06,Tap for 2-4s skippable humorous animation,BL-15/6-4,ART_AND_IMPLEMENTATION_REQUIRED
+STICKERS_01,Starry Tape,stickers,W01,95,cosmetic purchase using earnable screws,stickers,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+STICKERS_02,Donut Dot,stickers,W01,110,cosmetic purchase using earnable screws,stickers,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+STICKERS_03,Tiny Blueprint,stickers,W01,125,cosmetic purchase using earnable screws,stickers,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+STICKERS_04,Lucky Bolt,stickers,W01,140,cosmetic purchase using earnable screws,stickers,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+STICKERS_05,Foam Stamp,stickers,W01,155,cosmetic purchase using earnable screws,stickers,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+STICKERS_06,Cloud Puff,stickers,W01,170,cosmetic purchase using earnable screws,stickers,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+STICKERS_07,Magnet Mark,stickers,W01,185,cosmetic purchase using earnable screws,stickers,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+STICKERS_08,Moon Spark,stickers,W01,200,cosmetic purchase using earnable screws,stickers,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+BENCH_PAINT_01,Cream Workbench,bench_paint,W01,235,cosmetic purchase using earnable screws,bench paint,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+BENCH_PAINT_02,Sunshine Workbench,bench_paint,W01,250,cosmetic purchase using earnable screws,bench paint,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+BENCH_PAINT_03,Mint Workbench,bench_paint,W01,265,cosmetic purchase using earnable screws,bench paint,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+BENCH_PAINT_04,Coral Workbench,bench_paint,W01,280,cosmetic purchase using earnable screws,bench paint,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+BENCH_PAINT_05,Sky Workbench,bench_paint,W01,295,cosmetic purchase using earnable screws,bench paint,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+BENCH_PAINT_06,Violet Workbench,bench_paint,W01,310,cosmetic purchase using earnable screws,bench paint,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+PIP_ACCESSORY_01,Engineer Cap,pip_accessory,W01,365,cosmetic purchase using earnable screws,pip accessory,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+PIP_ACCESSORY_02,Jelly Bow,pip_accessory,W01,380,cosmetic purchase using earnable screws,pip accessory,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+PIP_ACCESSORY_03,Goggles,pip_accessory,W01,395,cosmetic purchase using earnable screws,pip accessory,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+PIP_ACCESSORY_04,Paper Crown,pip_accessory,W01,410,cosmetic purchase using earnable screws,pip accessory,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+PIP_ACCESSORY_05,Tiny Scarf,pip_accessory,W01,425,cosmetic purchase using earnable screws,pip accessory,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+PIP_ACCESSORY_06,Robot Ear Muffs,pip_accessory,W01,440,cosmetic purchase using earnable screws,pip accessory,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+VICTORY_EFFECT_01,Wooden Confetti,victory_effect,W01,455,cosmetic purchase using earnable screws,victory effect,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+VICTORY_EFFECT_02,Bubble Shower,victory_effect,W01,470,cosmetic purchase using earnable screws,victory effect,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+VICTORY_EFFECT_03,Paper Stars,victory_effect,W01,485,cosmetic purchase using earnable screws,victory effect,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED
+VICTORY_EFFECT_04,Soft Sparkles,victory_effect,W01,500,cosmetic purchase using earnable screws,victory effect,IL-06/BL-22,ART_AND_IMPLEMENTATION_REQUIRED

@@ -1,0 +1,311 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Tiny Chaos Level Definition v1 (authoring schema)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "id",
+    "world_id",
+    "index",
+    "title_key",
+    "brief_key",
+    "puzzle_type",
+    "gadget_palette",
+    "spawn",
+    "goal",
+    "fixtures",
+    "sockets",
+    "interventions",
+    "checkpoints",
+    "win_conditions",
+    "fail_conditions",
+    "medals",
+    "solution_traces",
+    "qa_status"
+  ],
+  "properties": {
+    "version": {
+      "type": "integer",
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^W0[1-6]_L[0-9]{3}$"
+    },
+    "world_id": {
+      "type": "string",
+      "pattern": "^W0[1-6]$"
+    },
+    "index": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 20
+    },
+    "title_key": {
+      "type": "string"
+    },
+    "brief_key": {
+      "type": "string"
+    },
+    "puzzle_type": {
+      "enum": [
+        "Fix It",
+        "Save It",
+        "Chaos Combo"
+      ]
+    },
+    "physics_seed": {
+      "type": "integer"
+    },
+    "canvas": {
+      "type": "object",
+      "properties": {
+        "width": {
+          "type": "number"
+        },
+        "height": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "width",
+        "height"
+      ]
+    },
+    "gadget_palette": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "spawn": {
+      "type": "object",
+      "required": [
+        "body_id",
+        "position",
+        "body_type"
+      ],
+      "properties": {
+        "body_id": {
+          "type": "string"
+        },
+        "body_type": {
+          "type": "string"
+        },
+        "position": {
+          "$ref": "#/$defs/point"
+        },
+        "velocity": {
+          "$ref": "#/$defs/point"
+        }
+      }
+    },
+    "goal": {
+      "type": "object",
+      "required": [
+        "goal_id",
+        "position",
+        "radius"
+      ],
+      "properties": {
+        "goal_id": {
+          "type": "string"
+        },
+        "position": {
+          "$ref": "#/$defs/point"
+        },
+        "radius": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        }
+      }
+    },
+    "fixtures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "position"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "position": {
+            "$ref": "#/$defs/point"
+          },
+          "params": {
+            "type": "object"
+          }
+        }
+      }
+    },
+    "sockets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "position",
+          "allowed_gadgets"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "position": {
+            "$ref": "#/$defs/point"
+          },
+          "allowed_gadgets": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "snap_radius": {
+            "type": "number"
+          }
+        }
+      }
+    },
+    "interventions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "control_id",
+          "action_type",
+          "cue_tick"
+        ],
+        "properties": {
+          "control_id": {
+            "type": "string"
+          },
+          "action_type": {
+            "type": "string"
+          },
+          "cue_tick": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "timing_window_ms": {
+            "type": "integer",
+            "minimum": 100
+          }
+        }
+      }
+    },
+    "checkpoints": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "trigger"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "trigger": {
+            "type": "string"
+          },
+          "restore_mode": {
+            "enum": [
+              "snapshot",
+              "phase_reload",
+              "initial_restart"
+            ]
+          }
+        }
+      }
+    },
+    "win_conditions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "fail_conditions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "medals": {
+      "type": "object",
+      "properties": {
+        "rescue": {
+          "type": "string"
+        },
+        "precision": {
+          "type": "string"
+        },
+        "inventor": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "rescue",
+        "precision",
+        "inventor"
+      ]
+    },
+    "solution_traces": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "actions",
+          "qa_status"
+        ],
+        "properties": {
+          "actions": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "qa_status": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "qa_status": {
+      "enum": [
+        "DESIGN_ONLY_NOT_VERIFIED",
+        "IMPLEMENTED_UNVERIFIED",
+        "AUTOMATED_CLEAR_VERIFIED",
+        "ANDROID_CLEAR_VERIFIED",
+        "RELEASE_APPROVED"
+      ]
+    }
+  },
+  "$defs": {
+    "point": {
+      "type": "object",
+      "required": [
+        "x",
+        "y"
+      ],
+      "properties": {
+        "x": {
+          "type": "number"
+        },
+        "y": {
+          "type": "number"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿id,puzzle_families,input,physics_behavior,player_effect,tunable_parameters,first_world,qa_focus
+ramp,Fix It,place/rotate,static angled collider,route ball,up/down / 15deg increments,W01,plain geometry
+spring,Fix It/Combo,place/trigger,impulse with capped speed,launch object,strength low/med and 4 rotations,W01,free-body _integrate_forces
+big_switch,Save It,tap,toggle connected state,start/stop belt,momentary or persistent,W01,visible ON/OFF icon
+flipper,Save It/Combo,tap,animated rotation limited angle,strike ball,left/right and 2 speeds,W01,large hit area
+conveyor,Fix It/Save It,place/switch,surface linear movement,guide prop,speed 0.5/1/1.5,W02,no-body jitter
+bumper,Fix It,place,elastic impulse with cooldown,bounce ball,angle and strength,W02,sound debounce
+fan,Save It/Combo,tap/hold,bounded Area2D directional force,push balloon/ball,3 force levels,W02,airflow visualization
+platform,Fix It,place,one-way safe landing platform,catch toy,horizontal/tilted,W03,large snap target
+magnet,Save It/Combo,tap/polarity,bounded force field by material flag,move metal bodies,attract/repel,W04,mark poles with +/- icons
+seesaw,Fix It/Combo,tap/lever,joint with clamped rotation,change launch angle,hinge angle,W05,restore joint state
+portal,Combo,activate,paired portal with cooldown,redirect object,"exit angle, portal pair",W06,prevent teleport loops
+gravity_zone,Combo,tap/direction,Area2D custom gravity,reverse fall,up/down/left/right,W06,visual arrows; safe velocity limit
