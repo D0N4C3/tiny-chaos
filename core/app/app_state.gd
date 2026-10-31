@@ -19,6 +19,11 @@ var session_started_msec: int = 0
 
 func _ready() -> void:
 	start_session()
+	var event_bus: Node = get_node_or_null("/root/EventBus")
+	if event_bus != null:
+		event_bus.connect("setting_changed", _on_setting_changed)
+	# SaveManager loads after this autoload; apply the saved language once it is ready.
+	_apply_saved_locale.call_deferred()
 
 
 func start_session() -> void:
@@ -39,6 +44,16 @@ func enter_screen(screen_id: StringName, params: Dictionary) -> void:
 	else:
 		current_level_id = &""
 		_set_phase(Phase.MENU)
+
+
+func _apply_saved_locale() -> void:
+	var save: Node = get_node_or_null("/root/SaveManager")
+	Locale.apply(str(save.call("get_setting", "language")) if save != null else Locale.FALLBACK)
+
+
+func _on_setting_changed(key: StringName, value: Variant) -> void:
+	if key == &"language":
+		Locale.apply(str(value))
 
 
 func session_seconds() -> float:

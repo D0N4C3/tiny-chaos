@@ -1,18 +1,11 @@
-# Current project state — keep under 80 lines
+﻿# Current project state
 
-**Status:** Full-game repository scaffold only; game logic, completed levels, Android builds and runtime tests are NOT implemented. Original source-of-truth specs are in `docs/spec/`.
+**Status:** Full-game repository scaffold; gameplay, completed levels, Android builds and runtime tests remain unimplemented. Localization source and locale fallback work is in progress under P01-013.
 
-**Last verified:** Layout script should pass after extraction. Godot runtime/export, physics content, SDKs and Play Store requirements are not yet tested on this machine.
+**Last verified:** `python tools/validate_agent_guidance.py` passed (59 directories, 0 problems); `python tools/build_localization.py --check` passed (348 English keys, other locales empty); `git diff --check` passed. Godot runtime/export and Android UI verification have not run.
 
-**Git:** Run `python tools/bootstrap_repo.py` on the developer machine before feature work; record actual first commit SHA here after Git is initialized.
+**Git:** Local Git is initialized on `main`; remote publication is owner-authorized for `https://github.com/D0N4C3/tiny-chaos.git`.
 
-**Next:** Validate environment; follow the first not-completed tasks in `docs/spec/05_EXECUTION/IMPLEMENTATION_TRACKER.csv`; start with project boot, Android export smoke test and data-driven level loader. Read only the relevant task docs from root router.
+**Next:** Finish P01-013 with Godot locale and settings UI/runtime verification, then continue boot, Android export smoke test and data-driven level loader.
 
-**Blockers:** Owner-controlled package name, AdMob, billing and release credentials must not be guessed or committed. New tasks should log actual blockers separately.
-
-**Handoff format:**
-- Task IDs / actual latest SHA:
-- Implemented:
-- Tests run + exact result:
-- Files/doc routes for next task:
-- Blockers / next 1–3 tasks:
+**Blockers:** Godot runtime is unavailable in the current shell. Owner-controlled package name, AdMob, billing and release credentials must not be guessed or committed.
